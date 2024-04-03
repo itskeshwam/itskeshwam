@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://itskeshwam.github.io/portfolio-main/](https://itskeshwam.github.io/portfolio-main/)
+- 👨‍💻 All of my projects are available at [https://itskeshwam.github.io/portfolio-main/ ](https://itskeshwam.github.io/portfolio-main/)
 
-- 💬 Ask me about **Python, Linux and**
+- 💬 Ask me about **Python, Linux and Rust**
 
 - 📫 How to reach me **pandeykeshwam1122@gmail.com**
 
