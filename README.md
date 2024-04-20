@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://itskeshwam.github.io/portfolio-main/ ](https://itskeshwam.github.io/portfolio-main/)
+- 👨‍💻 My very old basic portfolio is available at [https://itskeshwam.github.io/portfolio-main/ ](https://itskeshwam.github.io/portfolio-main/)
 
 - 💬 Ask me about **Python, Linux and Rust**
 
