@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Keshwam Pandey</h1>
-<h3 align="center">A passionate freelance developer from India</h3>
+<h3 align="center">A passionate CyberSecurity Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskeshwam&label=Profile%20views&color=0e75b6&style=flat" alt="itskeshwam" /> </p>
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Rust<br>💬 Ask me about Python, Linux and Rust<br>⚡ Fun fact: You can read ;p
-
+<br>🔐 I'm currently focusing on Offensive Security and Penetration Testing<br>🌱 I'm currently learning Rust for Systems Programming<br>💬 Ask me about Python, Linux, Network Security, and Pentesting<br>⚡ Fun fact: The first computer worm was created by accident!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itskeshwam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itskeshwam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itskeshwam) 
