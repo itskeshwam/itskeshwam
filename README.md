@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskeshwam&label=Profile%20views&color=0e75b6&style=flat" alt="itskeshwam" /> </p>
 
 # 💫 About Me:
-<br>🔐 I'm currently focusing on Offensive Security and Penetration Testing<br>🌱 I'm currently learning Rust for Systems Programming<br>💬 Ask me about Python, Linux, Network Security, and Pentesting<br>⚡ Fun fact: The first computer worm was created by accident!
+<br>🔐 I'm currently focusing on Offensive Security and Penetration Testing<br>💬 Ask me about Python, Linux, Network Security, and Pentesting<br>⚡ Fun fact: The first computer worm was created by accident!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itskeshwam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itskeshwam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itskeshwam) 
